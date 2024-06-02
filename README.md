@@ -6,7 +6,7 @@ A new Flutter project.
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
 
-![Zrzut ekranu 2024-06-02 224918](https://github.com/DanielLasota/Binance-Unmatched-Perspicacity-Bot-Flutter-GUI/assets/127039319/f25f955e-b13b-4192-bcb7-576891f05b01)
+![Zrzut ekranu 2024-06-02 224918](https://github.com/DanielLasota/Binance-Unmatched-Perspicacity-Bot-Flutter-GUI/assets/127039319/ae5b5bf8-afd4-40cb-adab-6cdc8d5b8bac)
 
 ![Zrzut ekranu 2024-06-02 224946](https://github.com/DanielLasota/Binance-Unmatched-Perspicacity-Bot-Flutter-GUI/assets/127039319/d4d6d225-f7ca-466a-a87c-0692982cc4d0)
 
